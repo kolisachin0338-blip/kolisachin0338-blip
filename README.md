@@ -1,27 +1,55 @@
-## welcome to my profile
+# 👋 Hi, I'm Sachin
 
-# Hello, I'm a passionate developer
-💻 Interested in Web Development
-🌱 Currently learning HTML
-🎨 Practicing CSS for better design
-⚡ Exploring JavaScript
-📚 Always learning new technologies
-🚀 Building small projects daily
-🔧 Improving my coding skills
-💡 Love solving coding problems
-🌍 Interested in modern web technologies
-📖 Learning Git and GitHub
-📂 Sharing my projects here
-🧠 Curious about how things work
-🎯 Goal: Become a full stack developer
-🔥 Passionate about coding
-📈 Improving step by step
-🤝 Open to collaboration
-🛠 Practicing clean code
-💬 Love learning from other developers
-🌟 Always motivated to grow
-🧑‍💻 Coding is my passion
-📌 Building real-world projects
-📍 Learning something new every day
-🚀 Future Software Engineer
-✨ Thanks for visiting my profile
+🎓 Student | Aspiring Web Developer  
+💻 Learning programming and building projects  
+🚀 Passionate about technology and coding  
+
+---
+
+## 👨‍💻 About Me
+
+- 🎓 I am a student learning software development
+- 🌱 Currently learning *HTML, CSS, JavaScript*
+- 💡 Interested in *Web Development*
+- 📚 Improving my coding skills every day
+- 🎯 Goal: Become a *Full Stack Developer*
+
+---
+
+## 🛠 Skills
+
+- HTML
+- CSS
+- JavaScript
+- Git
+- GitHub
+
+---
+
+## 📂 Projects
+
+Here are some of my projects:
+
+- 📄 HTML Practice Projects
+- 🎨 CSS Layout Projects
+- ⚡ JavaScript Beginner Projects
+
+More projects coming soon...
+
+---
+
+## 🌱 Currently Learning
+
+- Responsive Web Design
+- JavaScript
+- Git & GitHub
+
+---
+
+## 📫 Contact Me
+
+- GitHub: https://github.com/kolisachin0338-blip
+
+---
+
+⭐ Thanks for visiting my profile!
